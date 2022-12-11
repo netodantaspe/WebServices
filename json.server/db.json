@@ -1,0 +1,8 @@
+"alunos":[
+    {
+        "id": 1,
+        "nome": "Bruno Silva",
+        "serie": "3º ano",
+        "nota": 9.3,
+        "aprovado": true
+    }]
